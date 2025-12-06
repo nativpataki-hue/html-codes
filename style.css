@@ -82,7 +82,6 @@ header {
   text-align: center;
 }
 
-/* לוגו עגול שכבר עשית – רק מיישר לגודל נעים */
 header .logo {
   display: block;
   margin: 0 auto 18px;
